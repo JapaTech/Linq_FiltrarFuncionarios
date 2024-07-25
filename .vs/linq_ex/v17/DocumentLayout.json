@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jonathan\\Desktop\\Estudo\\Lambda_Linq\\linq_ex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A26CA0C2-CA78-4B13-87C6-5757EE4F908E}|linq_ex\\linq_ex.csproj|c:\\users\\jonathan\\desktop\\estudo\\lambda_linq\\linq_ex\\linq_ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26CA0C2-CA78-4B13-87C6-5757EE4F908E}|linq_ex\\linq_ex.csproj|solutionrelative:linq_ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26CA0C2-CA78-4B13-87C6-5757EE4F908E}|linq_ex\\linq_ex.csproj|c:\\users\\jonathan\\desktop\\estudo\\lambda_linq\\linq_ex\\linq_ex\\entidades\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26CA0C2-CA78-4B13-87C6-5757EE4F908E}|linq_ex\\linq_ex.csproj|solutionrelative:linq_ex\\entidades\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\Desktop\\Estudo\\Lambda_Linq\\linq_ex\\linq_ex\\Entidades\\Funcionario.cs",
+              "RelativeDocumentMoniker": "linq_ex\\Entidades\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\Desktop\\Estudo\\Lambda_Linq\\linq_ex\\linq_ex\\Entidades\\Funcionario.cs",
+              "RelativeToolTip": "linq_ex\\Entidades\\Funcionario.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAABFwBMAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:09:11.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jonathan\\Desktop\\Estudo\\Lambda_Linq\\linq_ex\\linq_ex\\Program.cs",
+              "RelativeDocumentMoniker": "linq_ex\\Program.cs",
+              "ToolTip": "C:\\Users\\Jonathan\\Desktop\\Estudo\\Lambda_Linq\\linq_ex\\linq_ex\\Program.cs",
+              "RelativeToolTip": "linq_ex\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T13:08:17.378Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

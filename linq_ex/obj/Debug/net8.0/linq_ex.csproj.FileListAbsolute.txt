@@ -1,0 +1,14 @@
+C:\Users\Jonathan\Desktop\Estudo\Lambda_Linq\linq_ex\linq_ex\bin\Debug\net8.0\linq_ex.exe
+C:\Users\Jonathan\Desktop\Estudo\Lambda_Linq\linq_ex\linq_ex\bin\Debug\net8.0\linq_ex.deps.json
+C:\Users\Jonathan\Desktop\Estudo\Lambda_Linq\linq_ex\linq_ex\bin\Debug\net8.0\linq_ex.runtimeconfig.json
+C:\Users\Jonathan\Desktop\Estudo\Lambda_Linq\linq_ex\linq_ex\bin\Debug\net8.0\linq_ex.dll
+C:\Users\Jonathan\Desktop\Estudo\Lambda_Linq\linq_ex\linq_ex\bin\Debug\net8.0\linq_ex.pdb
+C:\Users\Jonathan\Desktop\Estudo\Lambda_Linq\linq_ex\linq_ex\obj\Debug\net8.0\linq_ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan\Desktop\Estudo\Lambda_Linq\linq_ex\linq_ex\obj\Debug\net8.0\linq_ex.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Desktop\Estudo\Lambda_Linq\linq_ex\linq_ex\obj\Debug\net8.0\linq_ex.AssemblyInfo.cs
+C:\Users\Jonathan\Desktop\Estudo\Lambda_Linq\linq_ex\linq_ex\obj\Debug\net8.0\linq_ex.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Desktop\Estudo\Lambda_Linq\linq_ex\linq_ex\obj\Debug\net8.0\linq_ex.dll
+C:\Users\Jonathan\Desktop\Estudo\Lambda_Linq\linq_ex\linq_ex\obj\Debug\net8.0\refint\linq_ex.dll
+C:\Users\Jonathan\Desktop\Estudo\Lambda_Linq\linq_ex\linq_ex\obj\Debug\net8.0\linq_ex.pdb
+C:\Users\Jonathan\Desktop\Estudo\Lambda_Linq\linq_ex\linq_ex\obj\Debug\net8.0\linq_ex.genruntimeconfig.cache
+C:\Users\Jonathan\Desktop\Estudo\Lambda_Linq\linq_ex\linq_ex\obj\Debug\net8.0\ref\linq_ex.dll
